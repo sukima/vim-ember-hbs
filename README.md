@@ -7,6 +7,8 @@ indentation to Vim. It supports modern Ember Handlebars syntax like `{{else if` 
 ![Badwolf theme](_badwolf.png)
 ![Solarized theme](_solarized.png)
 
+**NOTE:** Now with GTS & GJS (Glimmer) support!
+
 ## Installation
 
 The easiest way to install `vim-ember-hbs` is using the amazing [Pathogen](https://github.com/tpope/vim-pathogen).
